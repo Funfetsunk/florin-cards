@@ -1,0 +1,7 @@
+{
+	"version": 1,
+	"_comment": "Live overrides fetched by the game at start-up (see scripts/services/RemoteConfig.gd). Keys: balance (deep-merged into balance.json), events (added/replaced by id), pass (seasons, replaced by id).",
+	"balance": {},
+	"events": [],
+	"pass": []
+}
